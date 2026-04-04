@@ -2,7 +2,7 @@
 
 ## 👥 Team Members
 - Purna  
-- Hema  
+- Hemal  
 
 ---
 
