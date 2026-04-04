@@ -1,0 +1,46 @@
+Enter number of stations: 3
+
+1. Add Connection
+2. Delete Connection
+3. Update Connection
+4. Search Connection
+5. Display Map
+6. Exit
+Enter choice: 1
+Enter source and destination: 0 1
+Connection added successfully
+
+Enter choice: 1
+Enter source and destination: 0 2
+Connection added successfully
+
+Enter choice: 5
+Station 0: 2 -> 1 -> NULL
+Station 1: 0 -> NULL
+Station 2: 0 -> NULL
+
+Enter choice: 4
+Enter source and destination: 0 1
+Connection exists
+
+Enter choice: 3
+Enter old source and destination: 0 1
+Enter new source and destination: 1 2
+Connection updated successfully
+
+Enter choice: 5
+Station 0: 2 -> NULL
+Station 1: 2 -> NULL
+Station 2: 1 -> 0 -> NULL
+
+Enter choice: 2
+Enter source and destination: 0 2
+Connection deleted successfully
+
+Enter choice: 5
+Station 0: NULL
+Station 1: 2 -> NULL
+Station 2: 1 -> NULL
+
+Enter choice: 6
+Exiting program
