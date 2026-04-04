@@ -76,9 +76,9 @@ Enter Station Name: kelambakkam
 Enter Transport Mode (Metro/Train/Bus): train
 SUCCESS: Station added to the network!
 
-Enter Choice: 2                                       
+Enter Choice: 2
 --- CITY TRANSPORT NETWORK MAP ---
-START <-> [bus: payinur (ID:123)] <-> END
+START <-> [bus: payinur (ID:123)] <-> [train: kelambakkam (ID:124)] <-> END
 
 Enter Choice: 3
 Enter Station ID to update: 123
