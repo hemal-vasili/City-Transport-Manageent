@@ -130,8 +130,3 @@ This project demonstrates how graph data structures can be used to model real-wo
 - Add station names instead of numbers  
 - Implement shortest path algorithms  
 - Develop graphical interface  
-
----
-
-## 🎥 Demo Video
-(Add your Google Drive link here)
