@@ -12,8 +12,7 @@ Managing city transport systems can be complex due to multiple stations and conn
 ---
 
 ## 🧠 Data Structure Used
-- Graph  
-- Adjacency List  
+- Graph   
 - Linked List  
 
 ---
